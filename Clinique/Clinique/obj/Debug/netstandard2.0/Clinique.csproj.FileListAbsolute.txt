@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\bin\Debug\netstandard2.0\Clinique.deps.json
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\bin\Debug\netstandard2.0\Clinique.dll
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\bin\Debug\netstandard2.0\Clinique.pdb
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\Clinique.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\Clinique.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\Clinique.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\Clinique.dll
+C:\Users\Admin\source\repos\Clinique\Clinique\Clinique\obj\Debug\netstandard2.0\Clinique.pdb

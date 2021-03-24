@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Clinique"
+             x:Class="Clinique.MainPage">
+
+
+
+    <StackLayout>
+        <Label x:Name="textLabel" FontSize="Micro"  Text="Введите номер телефона для авторизации" HorizontalOptions="Center" />
+        <Entry Text="+7" MaxLength="12" Keyboard="Telephone" />
+        <Button Text = "Войти" FontSize="Large" BorderWidth="0.5" BackgroundColor="DeepSkyBlue" TextColor="White" Clicked="ToHeadPage"/>
+    </StackLayout>
+
+</ContentPage>
